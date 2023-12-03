@@ -1,0 +1,5 @@
+Pipfile.lock
+Pipfile
+*.yml
+*/__pycache__/*
+*/migrations/*
